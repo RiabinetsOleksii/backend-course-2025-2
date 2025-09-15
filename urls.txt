@@ -1,1 +1,1 @@
-
+course://web.backend?name="Oleksii Riabinec"&group="ФЕІ-22с"&subgroup="Підгрупа 1"#RiabinetsOleksii
